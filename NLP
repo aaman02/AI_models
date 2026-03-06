@@ -1,1 +1,8 @@
 
+# Projects
+
+## 1. E-Commerce Product Category Classification
+Developed a machine learning model to automatically classify e-commerce product descriptions into categories such as **Books, Clothing & Accessories, Electronics, and Household**.  
+Applied **text preprocessing, Count Vectorization, TF-IDF vectorization, and Random Forest classification**, achieving approximately **93% accuracy**.
+
+---
